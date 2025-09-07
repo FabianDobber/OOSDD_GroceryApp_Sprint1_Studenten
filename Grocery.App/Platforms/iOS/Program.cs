@@ -16,3 +16,4 @@ namespace Grocery.App
 }
 
 //dit is een testcomment
+//dit is een bugfix
